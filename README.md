@@ -6,7 +6,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-> **Live Portfolio →** [https://manikantareddy941-hash.github.io/portfolio](https://manikantareddy941-hash.github.io/portfolio)
+> **Live Portfolio →** https://manikantareddy941-hash.github.io/My_portfolio/
 
 ---
 
